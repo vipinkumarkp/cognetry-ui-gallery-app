@@ -1,0 +1,36 @@
+{
+  "files": {
+    "static/js/0.03ad4842.chunk.js": "/cognetry-ui-gallery-app/static/js/0.03ad4842.chunk.js",
+    "static/js/0.03ad4842.chunk.js.map": "/cognetry-ui-gallery-app/static/js/0.03ad4842.chunk.js.map",
+    "static/js/1.25d10fd6.chunk.js": "/cognetry-ui-gallery-app/static/js/1.25d10fd6.chunk.js",
+    "static/js/1.25d10fd6.chunk.js.map": "/cognetry-ui-gallery-app/static/js/1.25d10fd6.chunk.js.map",
+    "main.css": "/cognetry-ui-gallery-app/static/css/main.cec75fb4.chunk.css",
+    "main.js": "/cognetry-ui-gallery-app/static/js/main.18f69c26.chunk.js",
+    "main.js.map": "/cognetry-ui-gallery-app/static/js/main.18f69c26.chunk.js.map",
+    "runtime-main.js": "/cognetry-ui-gallery-app/static/js/runtime-main.cbc47d95.js",
+    "runtime-main.js.map": "/cognetry-ui-gallery-app/static/js/runtime-main.cbc47d95.js.map",
+    "static/js/4.ac19c270.chunk.js": "/cognetry-ui-gallery-app/static/js/4.ac19c270.chunk.js",
+    "static/js/4.ac19c270.chunk.js.map": "/cognetry-ui-gallery-app/static/js/4.ac19c270.chunk.js.map",
+    "static/js/5.ec82ffe5.chunk.js": "/cognetry-ui-gallery-app/static/js/5.ec82ffe5.chunk.js",
+    "static/js/5.ec82ffe5.chunk.js.map": "/cognetry-ui-gallery-app/static/js/5.ec82ffe5.chunk.js.map",
+    "static/js/6.c4f32f87.chunk.js": "/cognetry-ui-gallery-app/static/js/6.c4f32f87.chunk.js",
+    "static/js/6.c4f32f87.chunk.js.map": "/cognetry-ui-gallery-app/static/js/6.c4f32f87.chunk.js.map",
+    "static/js/7.13364344.chunk.js": "/cognetry-ui-gallery-app/static/js/7.13364344.chunk.js",
+    "static/js/7.13364344.chunk.js.map": "/cognetry-ui-gallery-app/static/js/7.13364344.chunk.js.map",
+    "static/js/8.6efcbb95.chunk.js": "/cognetry-ui-gallery-app/static/js/8.6efcbb95.chunk.js",
+    "static/js/8.6efcbb95.chunk.js.map": "/cognetry-ui-gallery-app/static/js/8.6efcbb95.chunk.js.map",
+    "index.html": "/cognetry-ui-gallery-app/index.html",
+    "static/css/main.cec75fb4.chunk.css.map": "/cognetry-ui-gallery-app/static/css/main.cec75fb4.chunk.css.map",
+    "static/js/0.03ad4842.chunk.js.LICENSE.txt": "/cognetry-ui-gallery-app/static/js/0.03ad4842.chunk.js.LICENSE.txt",
+    "static/js/4.ac19c270.chunk.js.LICENSE.txt": "/cognetry-ui-gallery-app/static/js/4.ac19c270.chunk.js.LICENSE.txt",
+    "static/js/5.ec82ffe5.chunk.js.LICENSE.txt": "/cognetry-ui-gallery-app/static/js/5.ec82ffe5.chunk.js.LICENSE.txt",
+    "static/js/6.c4f32f87.chunk.js.LICENSE.txt": "/cognetry-ui-gallery-app/static/js/6.c4f32f87.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/cognetry-ui-gallery-app/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbc47d95.js",
+    "static/js/4.ac19c270.chunk.js",
+    "static/css/main.cec75fb4.chunk.css",
+    "static/js/main.18f69c26.chunk.js"
+  ]
+}
