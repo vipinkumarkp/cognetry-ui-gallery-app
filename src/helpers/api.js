@@ -1,0 +1,27 @@
+import axios from "axios";
+/**
+ * Fetch data from given url
+ * @param {*} url
+ * @param {*} options
+ */
+const fetchJSON = (url, options = {}) => {
+  return fetch(url, options)
+    .then((response) => {
+      if (!response.status === 200) {
+        throw response.json();
+      }
+      return response.json();
+    })
+    .then((json) => {
+      return json;
+    })
+    .catch((error) => {
+      throw error;
+    });
+};
+const apiCall = (options) => {
+  return axios(options).then((response) => response);
+};
+
+
+export { fetchJSON, apiCall };
